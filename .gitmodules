@@ -1,0 +1,6 @@
+[submodule "deily-server"]
+	path = deily-server
+	url = git@github.com:bbo-mango/deily-server.git
+[submodule "deily-web"]
+	path = deily-web
+	url = git@github.com:bbo-mango/deily-web.git
